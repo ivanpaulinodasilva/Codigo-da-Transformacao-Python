@@ -8,6 +8,7 @@ class Carro:
         return f"Marca: {self.marca} | Modelo: {self.modelo}"
 
 class CarroEletrico(Carro):
+    # Herança de Classe
     def __init__(self, marca, modelo, autonomia_bateria):
         # O super() inicializa a marca e o modelo na classe pai
         super().__init__(marca, modelo)
