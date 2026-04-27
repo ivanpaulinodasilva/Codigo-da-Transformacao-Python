@@ -18,6 +18,8 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 4.  **Documente seu projeto:** Crie um arquivo `README.md` detalhado. É o seu cartão de visitas e a forma de contar a história do seu código.
 
+**Entrega:** Adicione o código na pasta `Modulo_01/` do seu repositório no GitHub e envie o link.
+
 ---
 ## 🐍 Introdução ao Python
 
@@ -30,6 +32,8 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 3.  **Primeiro programa:** Crie um script que pergunte o nome do usuário e diga "Oi!".
 
 * **Desafio Extra:** Deixe sua mensagem ainda mais legal! Use a biblioteca `datetime` para exibir a hora atual junto com a saudação.
+
+**Entrega:** Adicione o código na pasta `Modulo_02/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🧠 Lógica de Programação com Python
@@ -44,6 +48,8 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Crie um menu interativo de calculadora! Use um loop `while` para que o usuário possa escolher entre Soma, Subtração e Sair, repetindo a operação até que ele decida parar.
 
+**Entrega:** Adicione o código na pasta `Modulo_03/` do seu repositório no GitHub e envie o link.
+
 ---
 ## 🔢 Estruturas de Dados
 
@@ -56,6 +62,8 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 3.  **Separe pares e ímpares:** Dado um conjunto de números, use um loop para identificar e exibir quais são pares e quais são ímpares.
 
 * **Desafio Extra:** Construa uma agenda de contatos usando dicionários. Você deve conseguir adicionar, remover, buscar e gerenciar os contatos.
+
+**Entrega:** Adicione o código na pasta `Modulo_04/` do seu repositório no GitHub e envie o link.
 
 ---
 ## ⚙️ Funções em Python
@@ -70,6 +78,8 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Implemente um sistema de login simples com uma função para validar usuário e senha, usando um dicionário para armazenar os dados de acesso.
 
+**Entrega:** Adicione o código na pasta `Modulo_05/` do seu repositório no GitHub e envie o link.
+
 ---
 ## 📁 Manipulação de Arquivos
 
@@ -82,6 +92,8 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 3.  **Crie um sistema de notas em CSV:** Desenvolva um programa para adicionar e salvar notas em um arquivo `.csv` e depois carregá-las.
 
 * **Desafio Extra:** Crie um sistema de backup automático com a biblioteca `shutil` para copiar arquivos de uma pasta para outra.
+
+**Entrega:** Adicione o código na pasta `Modulo_06/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 📦 Módulos e Pacotes
@@ -96,6 +108,8 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Organize seu projeto em pacotes e módulos. Aprenda a estruturar o código de maneira clara e eficiente para projetos mais complexos.
 
+**Entrega:** Adicione o código na pasta `Modulo_07/` do seu repositório no GitHub e envie o link.
+
 ---
 ## 🚗 Programação Orientada a Objetos (POO)
 
@@ -108,6 +122,8 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 3.  **Use métodos especiais:** Aprenda a usar `__init__` e `__str__` para inicializar atributos e personalizar a exibição de objetos.
 
 * **Desafio Extra:** Crie um sistema de biblioteca com classes `Livro` e `Biblioteca` para gerenciar empréstimos.
+
+**Entrega:** Adicione o código na pasta `Modulo_08/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🐛 Tratamento de Erros
@@ -122,7 +138,7 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Implemente um sistema de login que trata credenciais inválidas e permite múltiplas tentativas.
 
-**Entrega:** Adicione o código na pasta `Modulo_08/` do seu repositório no GitHub e envie o link.
+**Entrega:** Adicione o código na pasta `Modulo_09/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🌐 Introdução a APIs
@@ -137,7 +153,7 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Crie um programa que busca dados de filmes com a API do TMDB e exiba título, gênero e sinopse.
 
-**Entrega:** Adicione o código na pasta `Modulo_09/` do seu repositório no GitHub e envie o link.
+**Entrega:** Adicione o código na pasta `Modulo_10/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🗄️ Banco de Dados com PostgreSQL
@@ -152,7 +168,7 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Crie um sistema de gerenciamento de tarefas que permita adicionar, visualizar e excluir tarefas, usando o SQLite para armazenar os dados.
 
-**Entrega:** Adicione o código na pasta `Modulo_10/` do seu repositório no GitHub e envie o link.
+**Entrega:** Adicione o código na pasta `Modulo_11/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🧪 Testes Automatizados
@@ -167,7 +183,7 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Implemente testes automatizados para uma API Flask usando o framework `pytest`.
 
-**Entrega:** Adicione o código na pasta `Modulo_11/` do seu repositório no GitHub e envie o link.
+**Entrega:** Adicione o código na pasta `Modulo_12/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 👨‍💻 Desenvolvimento de APIs com Flask
@@ -182,7 +198,7 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Crie uma API completa para um blog, com funcionalidades como criação de posts e autenticação.
 
-**Entrega:** Adicione o código na pasta `Modulo_12/` do seu repositório no GitHub e envie o link.
+**Entrega:** Adicione o código na pasta `Modulo_13/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🌐 Introdução ao Django
@@ -197,7 +213,7 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Adicione uma busca por nome e paginação na listagem de produtos.
 
-**Entrega:** Adicione o código na pasta `Modulo_13/` do seu repositório no GitHub e envie o link.
+**Entrega:** Adicione o código na pasta `Modulo_14/` do seu repositório no GitHub e envie o link.
 
 ---
 ## 🎯 Projeto Final
