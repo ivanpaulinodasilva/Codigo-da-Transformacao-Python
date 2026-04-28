@@ -228,7 +228,7 @@ O seu repositório no GitHub será a base do seu projeto. Use este espaço para 
 
 * **Desafio Extra:** Faça o deploy do projeto em um servidor web como Heroku ou Render e inclua instruções no `README.md` para testar localmente.
 
-**Entrega:** O projeto deve estar documentado em um repositório no GitHub. Envie o link do repositório para avaliação.
+**Entrega:** O projeto deve estar documentado em um repositório no GitHub na pasta Modulo_15/ do seu repositório e envie o link para avaliação.
 
 ---
 **Pronto para continuar a jornada? #BoraCodar** ✨
